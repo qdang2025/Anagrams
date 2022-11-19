@@ -52,7 +52,7 @@ public class Anagram {
 	}
 
 	/**
-	 * You can use this method for testing and debugging if you wish.
+	 * Testing and debugging
 	 */
 
 	public static void main(String[] args) {
